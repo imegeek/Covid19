@@ -74,4 +74,3 @@ echo
         printf "\e[1;93m[!] Invalid option!\e[0m\n"
 echo
     fi
-#>>>>>
